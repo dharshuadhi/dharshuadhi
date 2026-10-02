@@ -113,44 +113,56 @@
     <td width="50%" valign="top">
       <h3>💻 Languages</h3>
       <img src="https://skillicons.dev/icons?i=python,java,cs,bash,powershell,html" />
-      <p>Python (pytest, tooling) • Java (Selenium, RestAssured) • C# (.NET) • SQL • Bash / PowerShell scripting</p>
+      <p>Python (pytest, unittest, tooling) • Java (Selenium, RestAssured, Spring) • C# (.NET tooling) • SQL • Bash / PowerShell scripting • HTML</p>
       <h3>🧪 Test Automation</h3>
-      <img src="https://skillicons.dev/icons?i=selenium,jmeter,junit,appium,postman,jenkins" />
-      <p>Selenium WebDriver • JMeter • Cucumber BDD / Gherkin • RestAssured • Appium • Postman • Maven</p>
+      <img src="https://skillicons.dev/icons?i=selenium,jmeter,junit,cucumber,appium,postman" />
+      <p>
+        <img src="https://img.shields.io/badge/RestAssured-00D4B8?style=flat-square&logo=checkmarx&logoColor=white" />
+        <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+        <br/>Selenium WebDriver • JMeter (thread groups, correlation, timers) • Cucumber BDD / Gherkin • RestAssured • Appium (mobile) • Postman • Contract Testing
+      </p>
       <h3>⚙️ Backend & APIs</h3>
-      <img src="https://skillicons.dev/icons?i=spring,dotnet" />
-      <p>Spring Boot • REST APIs • IBM Maximo customizations • JSON Schema validation • OAuth2 / JWT</p>
+      <img src="https://skillicons.dev/icons?i=spring,dotnet,maven" />
+      <p>Spring Boot • REST APIs & Microservices • IBM Maximo Customizations • JSON Schema Validation • Request Chaining • OAuth2 / JWT Auth Flows</p>
       <br/>
       <h3>🗄️ Databases</h3>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-      <p>Cosmos DB • SQL reconciliation • data quality & lineage checks</p>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,elasticsearch" />
+      <p>Cosmos DB (RU analysis) • SQL Reconciliation • Data Quality & Lineage Checks • Blob Storage</p>
       <br/>
       <h3>☁️ Cloud & DevOps</h3>
       <img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,git,github,linux" />
-      <p>Azure DevOps Pipelines • CI/CD-gated test runs • containerized test environments • Git branching & PRs</p>
+      <p>Azure DevOps (Pipelines, Repos, Boards) • CI/CD-Gated Test Runs • Dockerized Test Envs • Azure Key Vault • Azure Active Directory • Git Branching & PR Reviews</p>
     </td>
     <td width="50%" valign="top">
       <h3>🤖 Artificial Intelligence</h3>
       <p>
         <img src="https://img.shields.io/badge/Azure_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
         <img src="https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-        <br/>LLM Integration • Prompt Orchestration • Agentic Workflows (tool-calling) • RAG • AI Test Generation • Failure Triage Agents • Grounded Responses
+        <br/>LLM Integration • Prompt Orchestration • Agentic Workflows (Tool-Calling) • RAG • AI Test-Case Generation • Intelligent Failure & Performance Analysis • Grounded Responses • Shift-Left Automation
       </p>
       <br/>
       <h3>🔐 Security & Compliance</h3>
       <p>
         <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-        <br/>Penetration Testing • BurpSuite / OWASP ZAP / SQLMap • Wazuh SIEM • MITRE ATT&CK • JWT / OAuth2 / RBAC • HIPAA • SOC2 • AES-256 / TLS 1.3
+        <img src="https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+        <br/>Penetration Testing • OWASP ZAP • SQLMap • Kali & Metasploit • Wazuh SIEM • MITRE ATT&CK • OPNsense Firewalls • VPN & Network Segmentation • JWT / OAuth2 / RBAC • SSL/TLS • AES-256 • HIPAA • SOC2
       </p>
       <br/>
       <h3>📊 Data Engineering</h3>
-      <p>Azure Data Factory • Talend • ETL Pipelines • SQL Reconciliation • Cosmos DB • Blob Storage • Data Quality & Lineage Checks • RU / throughput analysis</p>
+      <p>
+        <img src="https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=talend&logoColor=white" />
+        <br/>Azure Data Factory • ETL Pipelines • Event-Driven Flows (Service Bus) • SQL Reconciliation • Cosmos DB • Blob Storage • Data Quality & Lineage Checks • Query & RU Analysis • Dead-Letter Handling
+      </p>
       <br/>
       <h3>👀 Monitoring & Observability</h3>
-      <p>ELK Stack • Grafana dashboards • Wazuh • Graylog • Suricata • p90/p95/p99 SLA Reporting • Alert Rule Authoring • Log Analysis</p>
+      <img src="https://skillicons.dev/icons?i=elasticsearch,kibana,grafana" />
+      <p>ELK Stack (Elasticsearch, Logstash, Kibana) • Grafana Dashboards • Wazuh • Graylog • Suricata • p90/p95/p99 SLA Reporting • Alert Rule Authoring • Log Analysis & Threat Hunting</p>
       <br/>
-      <h3>📱 Mobile & More</h3>
-      <p>Appium (runtime downloads, emulator auto-startup) • Gradle • Visual Studio Code • PyCharm</p>
+      <h3>🛠️ IDEs & Tools</h3>
+      <img src="https://skillicons.dev/icons?i=vscode,pycharm" />
+      <p>VS Code • PyCharm • Postman • Azure Portal</p>
     </td>
   </tr>
 </table>
