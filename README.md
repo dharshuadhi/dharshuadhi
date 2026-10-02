@@ -1,7 +1,7 @@
 <table>
   <tr>
-    <td valign="centre"><img src="terminal-card.svg" alt="ASCII Portrait" width="400"/></td>
-    <td valign="top"><img src="info-card.svg" alt="Info Card" width="500"/></td>
+    <td valign="top" align="center"><img src="girl-coding.svg" alt="Girl coding" width="400"/></td>
+    <td valign="top" align="center"><img src="info-card.svg" alt="Info Card" width="500"/></td>
   </tr>
 </table>
 
@@ -12,8 +12,8 @@
 
 
 
-  <h3><strong>SDET | AI-Driven Test Automation &amp; Performance Engineering</strong></h3>
-  <p><i>Turning manual QA chaos into automated, AI-driven quality.</i></p>
+  <h3><strong>SDET | Software Engineer | Cybersecurity</strong></h3>
+  <p><i>I build software, break it safely, secure it — and automate the whole loop.</i></p>
 
   <p>
     <a href="mailto:dharshuadhimoolam@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -37,11 +37,11 @@
 
 ### 🧑‍💻 Who am I?
 
-* 🎓 **MS in Cybersecurity** · University at Buffalo
-* 💼 **SDET @ GlobalLogic** — test automation for a large-scale pharmacy supply chain platform
-* 🤖 **AI-driven engineering** — LLM test generation, agentic failure triage, RAG assistants (Azure OpenAI + AI Foundry)
+* 🧪 **SDET @ GlobalLogic** — test automation for a large-scale pharmacy supply chain platform
+* 💻 **Software Engineer** — Java/Spring Boot, IBM Maximo, .NET (ex-Tech Mahindra, WeServe)
+* 🔐 **Cybersecurity** — penetration testing, Wazuh SIEM, MITRE ATT&CK, SOC2 (MS, Univ. at Buffalo)
+* 🤖 **AI engineering** — LLM test generation, agentic failure triage, RAG assistants (Azure OpenAI + AI Foundry)
 * ⚡ **Performance engineering** — JMeter, p90/p95/p99 SLA analysis under peak load
-* 🌱 Currently exploring **LLM evals, AI agents & RAG systems**
 
 <blockquote>
   <p align="left">
@@ -63,23 +63,26 @@
 
 ---
 
-<!-- ================= AI ENGINEERING ================= -->
+<!-- ================= ENGINEERING FOCUS ================= -->
 <!-- Section Header with subtle typing or glow effect layout -->
 <!-- Section Header with a matching Dark/Glow theme -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1f232a&height=120&section=header&text=🤖%20AI%20Engineering&fontSize=30&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1f232a&height=120&section=header&text=🎯%20Engineering%20Focus&fontSize=30&fontColor=ffffff" width="100%"/>
 </div>
 
 <!-- Animated Metrics Section -->
 <p align="center">
   <a href="https://dharshuadhi.github.io/dharshini-portfolio/">
-    <img src="https://img.shields.io/badge/Azure_OpenAI-3%20Systems%20Shipped-412991?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/SDET-Test%20Automation-00FFCC?style=for-the-badge&logo=selenium&logoColor=black" />
   </a>
   <a href="https://dharshuadhi.github.io/dharshini-portfolio/">
-    <img src="https://img.shields.io/badge/Azure_AI_Foundry-Agentic%20Triage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   </a>
   <a href="https://dharshuadhi.github.io/dharshini-portfolio/">
-    <img src="https://img.shields.io/badge/RAG-Grounded%20Assistants-00FFCC?style=for-the-badge&logo=googlebard&logoColor=black" />
+    <img src="https://img.shields.io/badge/Security-Pentesting-FF6C37?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  </a>
+  <a href="https://dharshuadhi.github.io/dharshini-portfolio/">
+    <img src="https://img.shields.io/badge/AI-Azure%20OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   </a>
 </p>
 
@@ -87,11 +90,11 @@
 <table align="center" width="100%" border="0">
   <tr>
     <td align="center" width="50%" style="border: none; background: none;">
-      <img src="ai-stats-card.svg" width="400" alt="AI Stats Card"/>
+      <img src="focus-card.svg" width="400" alt="Engineering Focus"/>
     </td>
     <td align="center" width="50%" style="border: none; background: none;">
       <!-- Using a GitHub-native typing animation that never fails to render -->
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=400&lines=Shipping+AI+Test+Automation...;Triaging+Failures+with+LLMs...;Cutting+Manual+QA+to+Zero...;Continuous+Learning" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=400&lines=Automating+Tests+at+Scale...;Building+Secure+Systems...;Shipping+AI-Driven+Quality...;Breaking+Things+Safely..." alt="Typing SVG" />
     </td>
   </tr>
 </table>
@@ -123,7 +126,7 @@
       <img src="https://skillicons.dev/icons?i=selenium,jmeter,appium,postman,jenkins" />
       <br/><br/>
       <h3>⚙️ Backend & APIs</h3>
-      <img src="https://skillicons.dev/icons?i=spring" />
+      <img src="https://skillicons.dev/icons?i=spring,dotnet" />
       <br/><br/>
       <h3>🗄️ Databases</h3>
       <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
@@ -220,7 +223,7 @@
 
 <!-- ENGINEERING EXPERIENCE -->
 <h2>🚀 Engineering Experience</h2>
-<p>Across my journey I have built quality into production systems — from enterprise asset management to large-scale supply chain platforms.</p>
+<p>From enterprise software to cybersecurity to AI-driven quality — I build, break, and secure production systems.</p>
 
 <table width="100%">
   <tr>
@@ -235,6 +238,28 @@
       </ul>
     </td>
     <td width="33%" valign="top">
+      <h3>💻 Software Development</h3>
+      <ul>
+        <li>Java / Spring Boot</li>
+        <li>IBM Maximo customizations</li>
+        <li>.NET / C# tooling</li>
+        <li>REST APIs & microservices</li>
+        <li>Unit & integration tests</li>
+      </ul>
+    </td>
+    <td width="34%" valign="top">
+      <h3>🔐 Cybersecurity</h3>
+      <ul>
+        <li>Penetration testing</li>
+        <li>Wazuh SIEM & MITRE ATT&CK</li>
+        <li>OWASP Top 10</li>
+        <li>JWT / OAuth2 / RBAC</li>
+        <li>HIPAA & SOC2</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <h3>🤖 AI Engineering</h3>
       <ul>
         <li>Azure OpenAI & AI Foundry</li>
@@ -244,7 +269,7 @@
         <li>LLM failure analysis</li>
       </ul>
     </td>
-    <td width="34%" valign="top">
+    <td width="33%" valign="top">
       <h3>⚡ Performance</h3>
       <ul>
         <li>JMeter load scenarios</li>
@@ -253,35 +278,13 @@
         <li>Throughput profiling</li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🔐 Security</h3>
-      <ul>
-        <li>Penetration testing</li>
-        <li>Wazuh SIEM & MITRE ATT&CK</li>
-        <li>OWASP Top 10</li>
-        <li>JWT / OAuth2 / RBAC</li>
-        <li>HIPAA & SOC2</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h3>📊 Data & Backend</h3>
-      <ul>
-        <li>Azure Service Bus</li>
-        <li>Cosmos DB & SQL</li>
-        <li>Azure Data Factory</li>
-        <li>Talend ETL</li>
-        <li>Data reconciliation</li>
-      </ul>
-    </td>
     <td width="34%" valign="top">
-      <h3>🛠️ DevOps & Cloud</h3>
+      <h3>📊 Data & DevOps</h3>
       <ul>
-        <li>Azure DevOps pipelines</li>
-        <li>Docker</li>
-        <li>Git & GitHub</li>
-        <li>Azure, AWS, GCP</li>
+        <li>Azure Service Bus & ADF</li>
+        <li>Cosmos DB & SQL</li>
+        <li>Talend ETL</li>
+        <li>Docker & Azure DevOps</li>
         <li>ELK & Grafana monitoring</li>
       </ul>
     </td>
@@ -290,14 +293,14 @@
 
 <!-- HIGHLIGHTS -->
 <h2>🏆 Career Highlights</h2>
-<p>From enterprise software to AI-driven quality engineering, I have shipped <strong>5+ engineering projects</strong> across test automation, AI, security, and performance.</p>
+<p>From enterprise software to cybersecurity to AI-driven quality engineering, I have shipped <strong>5+ engineering projects</strong> across test automation, software development, security, and AI.</p>
 <p>
   <strong>🚀 Technologies & Domains Worked On:</strong><br/>
-  AI Test Generation • Agentic Triage • RAG Systems • Selenium Automation • JMeter Performance Engineering • p99 SLA Analysis • Azure Service Bus • Cosmos DB • ADF & Talend ETL • Wazuh SIEM • MITRE ATT&CK • OWASP • JWT/OAuth2/RBAC • HIPAA & SOC2 • Docker • Azure DevOps CI/CD • Appium Mobile Automation
+  Selenium Automation • JMeter Performance Engineering • Java / Spring Boot • .NET / C# • IBM Maximo • Penetration Testing • Wazuh SIEM • MITRE ATT&CK • OWASP • AI Test Generation • Agentic Triage • RAG Systems • Azure Service Bus • Cosmos DB • ADF & Talend ETL • HIPAA & SOC2 • Docker • Azure DevOps CI/CD
 </p>
 
 <!-- GITHUB STATS -->
-<h2>📈 GitHub Analytics & Open Source Activity</h2>
+<h2>📈 GitHub Analytics</h2>
 <div align="center">
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dharshuadhi&theme=tokyonight" />
@@ -305,11 +308,5 @@
 </p>
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharshuadhi&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="97%" />
-  </p>
-  <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharshuadhi&theme=tokyo-night&bg_color=0D1117&hide_border=true" width="97%" alt="Activity Graph" />
-  </p>
-  <p>
-    <img src="https://raw.githubusercontent.com/dharshuadhi/dharshuadhi/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph" width="97%" />
   </p>
 </div>
