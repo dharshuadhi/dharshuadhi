@@ -135,7 +135,10 @@
       <br/>
       <h3>🗄️ Databases</h3>
       <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,elasticsearch" />
-      <p>Cosmos DB (RU analysis) • SQL Reconciliation • Data Quality & Lineage Checks • Blob Storage</p>
+      <p>
+        <img src="https://img.shields.io/badge/SQL-0064A5?style=flat-square" />
+        <br/>Cosmos DB (RU analysis) • SQL Reconciliation • Data Quality & Lineage Checks • Blob Storage
+      </p>
       <br/>
       <h3>☁️ Cloud & DevOps</h3>
       <img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,git,github,linux" />
@@ -163,11 +166,18 @@
       </p>
       <br/>
       <h3>👀 Monitoring & Observability</h3>
-      <img src="https://skillicons.dev/icons?i=elasticsearch,grafana" />
-      <p>ELK Stack (Elasticsearch, Logstash, Kibana) • Grafana Dashboards • Wazuh • Graylog • Suricata • p90/p95/p99 SLA Reporting • Alert Rule Authoring • Log Analysis & Threat Hunting</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=elasticsearch,grafana" height="48" />
+        <img src="https://cdn.simpleicons.org/graylog/FF6633" height="48" title="Graylog" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Wazuh-1175BB?style=flat-square" />
+        <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square" />
+        <br/>ELK Stack (Elasticsearch, Logstash, Kibana) • Grafana Dashboards • Wazuh SIEM • Graylog • Suricata IDS • p90/p95/p99 SLA Reporting • Alert Rule Authoring • Log Analysis & Threat Hunting
+      </p>
       <br/>
       <h3>🛠️ IDEs & Tools</h3>
-      <img src="https://skillicons.dev/icons?i=vscode,pycharm" />
+      <img src="https://skillicons.dev/icons?i=vscode,pycharm,postman,azure" />
       <p>VS Code • PyCharm • Postman • Azure Portal</p>
     </td>
   </tr>
