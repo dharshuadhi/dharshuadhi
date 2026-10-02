@@ -72,18 +72,10 @@
 
 <!-- Animated Metrics Section -->
 <p align="center">
-  <a href="https://dharshuadhi.github.io/dharshini-portfolio/">
-    <img src="https://img.shields.io/badge/SDET-Test%20Automation-00FFCC?style=for-the-badge&logo=selenium&logoColor=black" />
-  </a>
-  <a href="https://dharshuadhi.github.io/dharshini-portfolio/">
-    <img src="https://img.shields.io/badge/Java-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  </a>
-  <a href="https://dharshuadhi.github.io/dharshini-portfolio/">
-    <img src="https://img.shields.io/badge/Security-Pentesting-FF6C37?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  </a>
-  <a href="https://dharshuadhi.github.io/dharshini-portfolio/">
-    <img src="https://img.shields.io/badge/AI-Azure%20OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/SDET-Test%20Automation-00FFCC?style=for-the-badge&logo=selenium&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security-Pentesting-FF6C37?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Azure%20OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 <!-- Left/Right Split: Perfectly balanced with working assets -->
@@ -120,36 +112,45 @@
   <tr>
     <td width="50%" valign="top">
       <h3>💻 Languages</h3>
-      <img src="https://skillicons.dev/icons?i=python,java,cs,html" />
-      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,java,cs,bash,powershell,html" />
+      <p>Python (pytest, tooling) • Java (Selenium, RestAssured) • C# (.NET) • SQL • Bash / PowerShell scripting</p>
       <h3>🧪 Test Automation</h3>
-      <img src="https://skillicons.dev/icons?i=selenium,jmeter,appium,postman,jenkins" />
-      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=selenium,jmeter,junit,appium,postman,jenkins" />
+      <p>Selenium WebDriver • JMeter • Cucumber BDD / Gherkin • RestAssured • Appium • Postman • Maven</p>
       <h3>⚙️ Backend & APIs</h3>
       <img src="https://skillicons.dev/icons?i=spring,dotnet" />
-      <br/><br/>
+      <p>Spring Boot • REST APIs • IBM Maximo customizations • JSON Schema validation • OAuth2 / JWT</p>
+      <br/>
       <h3>🗄️ Databases</h3>
       <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-      <br/><br/>
+      <p>Cosmos DB • SQL reconciliation • data quality & lineage checks</p>
+      <br/>
       <h3>☁️ Cloud & DevOps</h3>
       <img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,git,github,linux" />
+      <p>Azure DevOps Pipelines • CI/CD-gated test runs • containerized test environments • Git branching & PRs</p>
     </td>
     <td width="50%" valign="top">
       <h3>🤖 Artificial Intelligence</h3>
       <p>
         <img src="https://img.shields.io/badge/Azure_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
         <img src="https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-        <br/>LLM Integration • Prompt Orchestration • Agentic Workflows • RAG • AI Test Generation • Failure Triage Agents
+        <br/>LLM Integration • Prompt Orchestration • Agentic Workflows (tool-calling) • RAG • AI Test Generation • Failure Triage Agents • Grounded Responses
       </p>
       <br/>
       <h3>🔐 Security & Compliance</h3>
-      <p>OWASP Top 10 • JWT / OAuth2 / RBAC • Wazuh SIEM • MITRE ATT&CK • HIPAA • SOC2 • BurpSuite • Penetration Testing</p>
+      <p>
+        <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+        <br/>Penetration Testing • BurpSuite / OWASP ZAP / SQLMap • Wazuh SIEM • MITRE ATT&CK • JWT / OAuth2 / RBAC • HIPAA • SOC2 • AES-256 / TLS 1.3
+      </p>
       <br/>
       <h3>📊 Data Engineering</h3>
-      <p>Azure Data Factory • Talend • ETL Pipelines • SQL Reconciliation • Cosmos DB • Data Quality Checks</p>
+      <p>Azure Data Factory • Talend • ETL Pipelines • SQL Reconciliation • Cosmos DB • Blob Storage • Data Quality & Lineage Checks • RU / throughput analysis</p>
       <br/>
       <h3>👀 Monitoring & Observability</h3>
-      <p>ELK Stack • Grafana • Wazuh • Graylog • Suricata • p90/p95/p99 SLA Reporting</p>
+      <p>ELK Stack • Grafana dashboards • Wazuh • Graylog • Suricata • p90/p95/p99 SLA Reporting • Alert Rule Authoring • Log Analysis</p>
+      <br/>
+      <h3>📱 Mobile & More</h3>
+      <p>Appium (runtime downloads, emulator auto-startup) • Gradle • Visual Studio Code • PyCharm</p>
     </td>
   </tr>
 </table>
@@ -160,7 +161,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://dharshuadhi.github.io/dharshini-portfolio/">AI Test Case & Gherkin Generator</a></h3>
+      <h3>🤖 AI Test Case & Gherkin Generator</h3>
       <p>LLM-backed test generation from requirements via Azure OpenAI + AI Foundry; auto-generates Gherkin scenarios.</p>
       <p>
         <code>Azure OpenAI</code> <code>AI Foundry</code> <code>Java</code> <code>Cucumber</code>
@@ -171,7 +172,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🔍 <a href="https://dharshuadhi.github.io/dharshini-portfolio/">AI Failure Analysis & Agentic Triage</a></h3>
+      <h3>🔍 AI Failure Analysis & Agentic Triage</h3>
       <p>Tool-calling agents correlate failures across Service Bus, Cosmos DB & Talend and file defect reports.</p>
       <p>
         <code>Azure OpenAI</code> <code>Python</code> <code>JMeter</code> <code>Azure DevOps</code>
@@ -184,7 +185,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://dharshuadhi.github.io/dharshini-portfolio/">Performance Test Automation Toolkit</a></h3>
+      <h3>⚡ Performance Test Automation Toolkit</h3>
       <p>End-to-end load-testing toolkit: data prep, high-volume ingestion, p90/p95/p99 SLA reports.</p>
       <p>
         <code>Python</code> <code>JMeter</code> <code>SQL</code> <code>Azure Service Bus</code>
@@ -195,7 +196,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://dharshuadhi.github.io/dharshini-portfolio/">Home-Lab SOC Pipeline</a></h3>
+      <h3>🛡️ Home-Lab SOC Pipeline</h3>
       <p>Containerized detection stack with MITRE ATT&CK-mapped rules and red-team validation.</p>
       <p>
         <code>Wazuh</code> <code>ELK</code> <code>Suricata</code> <code>Docker</code> <code>Kali</code>
@@ -208,7 +209,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔎 <a href="https://dharshuadhi.github.io/dharshini-portfolio/">Web App Security Testing Toolkit</a></h3>
+      <h3>🔎 Web App Security Testing Toolkit</h3>
       <p>Multi-scanner wrapper normalizing BurpSuite, ZAP & SQLMap output into one structured report.</p>
       <p>
         <code>Python</code> <code>BurpSuite</code> <code>OWASP ZAP</code> <code>SQLMap</code>
