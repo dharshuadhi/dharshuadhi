@@ -12,11 +12,11 @@
 
 
 
-  <h3><strong>SDET | Software Engineer | Cybersecurity</strong></h3>
+  <h3><strong>Software Engineer | AI | Cybersecurity</strong></h3>
   <p><i>I build software, break it safely, secure it — and automate the whole loop.</i></p>
 
   <p>
-    SDET with ~4 years of experience across <b>test automation</b>, <b>software development</b>,
+    Software Engineer with ~4 years of experience across <b>software development</b>, <b>test automation</b>,
     <b>cybersecurity</b> and <b>AI engineering</b> — most recently shipping quality for a
     large-scale pharmacy supply chain platform at GlobalLogic.<br/>
     Now building <b>AI-driven testing</b>: LLM test-case generation, agentic failure triage
@@ -24,7 +24,7 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/Open_to_Opportunities-SDET_•_AI_Engineering-00FFCC?style=for-the-badge" alt="Open to opportunities" />
+    <img src="https://img.shields.io/badge/Open_to_Opportunities-Software_Engineering_•_AI-00FFCC?style=for-the-badge" alt="Open to opportunities" />
   </p>
 
   <p>
@@ -49,7 +49,7 @@
 
 ### 🧑‍💻 Who am I?
 
-* 🧪 **SDET @ GlobalLogic** — test automation for a large-scale pharmacy supply chain platform
+* 💻 **Software Engineer @ GlobalLogic** — test automation for a large-scale pharmacy supply chain platform
 * 💻 **Software Engineer** — Java/Spring Boot, IBM Maximo, .NET (ex-Tech Mahindra, WeServe)
 * 🔐 **Cybersecurity** — penetration testing, Wazuh SIEM, MITRE ATT&CK, SOC2 (MS, Univ. at Buffalo)
 * 🤖 **AI engineering** — LLM test generation, agentic failure triage, RAG assistants (Azure OpenAI + AI Foundry)
@@ -84,7 +84,7 @@
 
 <!-- Animated Metrics Section -->
 <p align="center">
-  <img src="https://img.shields.io/badge/SDET-Test%20Automation-00FFCC?style=for-the-badge&logo=selenium&logoColor=black" />
+  <img src="https://img.shields.io/badge/Software_Engineer-Test%20Automation-00FFCC?style=for-the-badge&logo=selenium&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Security-Pentesting-FF6C37?style=for-the-badge&logo=hackthebox&logoColor=white" />
   <img src="https://img.shields.io/badge/AI-Azure%20OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
