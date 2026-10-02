@@ -49,7 +49,7 @@
 
 ### 🧑‍💻 Who am I?
 
-* 💻 **Software Engineer @ GlobalLogic** — test automation for a large-scale pharmacy supply chain platform
+* 🧪 **SDET @ GlobalLogic** — test automation for a large-scale pharmacy supply chain platform
 * 💻 **Software Engineer** — Java/Spring Boot, IBM Maximo, .NET (ex-Tech Mahindra, WeServe)
 * 🔐 **Cybersecurity** — penetration testing, Wazuh SIEM, MITRE ATT&CK, SOC2 (MS, Univ. at Buffalo)
 * 🤖 **AI engineering** — LLM test generation, agentic failure triage, RAG assistants (Azure OpenAI + AI Foundry)
@@ -275,6 +275,10 @@
         <li>Cucumber BDD / Gherkin</li>
         <li>RestAssured API suites</li>
         <li>Contract testing</li>
+        <li>Test framework architecture</li>
+        <li>Parallel execution</li>
+        <li>Flaky-test triage</li>
+        <li>Test data management</li>
         <li>CI/CD-gated runs</li>
       </ul>
     </td>
@@ -286,15 +290,22 @@
         <li>.NET / C# tooling</li>
         <li>REST APIs & microservices</li>
         <li>Unit & integration tests</li>
+        <li>Debugging & root-cause analysis</li>
+        <li>Code reviews</li>
+        <li>Maven / Gradle builds</li>
       </ul>
     </td>
     <td width="34%" valign="top">
       <h3>🔐 Cybersecurity</h3>
       <ul>
         <li>Penetration testing</li>
+        <li>Vulnerability assessment</li>
         <li>Wazuh SIEM & MITRE ATT&CK</li>
+        <li>SIEM rule tuning</li>
         <li>OWASP Top 10</li>
         <li>JWT / OAuth2 / RBAC</li>
+        <li>Network segmentation & VPN</li>
+        <li>OPNsense firewalls</li>
         <li>HIPAA & SOC2</li>
       </ul>
     </td>
@@ -308,25 +319,35 @@
         <li>Tool-calling agents</li>
         <li>RAG assistants</li>
         <li>LLM failure analysis</li>
+        <li>AI test-case generation</li>
+        <li>Eval & guardrails</li>
+        <li>Grounded responses</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <h3>⚡ Performance</h3>
       <ul>
         <li>JMeter load scenarios</li>
+        <li>Correlation & parameterization</li>
         <li>p90/p95/p99 SLA analysis</li>
         <li>Soak / spike / stress</li>
         <li>Throughput profiling</li>
+        <li>Bottleneck analysis</li>
+        <li>Baseline & regression tracking</li>
       </ul>
     </td>
     <td width="34%" valign="top">
       <h3>📊 Data & DevOps</h3>
       <ul>
         <li>Azure Service Bus & ADF</li>
+        <li>Event-driven flows</li>
         <li>Cosmos DB & SQL</li>
-        <li>Talend ETL</li>
+        <li>Talend ETL pipelines</li>
+        <li>Data quality & lineage</li>
+        <li>Dead-letter handling</li>
         <li>Docker & Azure DevOps</li>
         <li>ELK & Grafana monitoring</li>
+        <li>Alert rule authoring</li>
       </ul>
     </td>
   </tr>
@@ -350,6 +371,12 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cs,bash,powershell,html" />
   <br/><sub><i>Languages in my daily work — the charts above only count public repos</i></sub>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharshuadhi&bg_color=14121f&color=d6d0ea&line=a78bfa&point=f5c86e&area=true&hide_border=true" alt="Contribution activity graph" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dharshuadhi/dharshuadhi/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%" />
 </p>
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharshuadhi&hide_border=true&background=0D1117&ring=a78bfa&fire=f5c86e&currStreakNum=e9e4ff&sideNums=e9e4ff&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=9a93b8" alt="GitHub Streak" width="97%" />
