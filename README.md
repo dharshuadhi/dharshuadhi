@@ -1,19 +1,19 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dharshuadhi/dharshuadhi/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" width="850"/>
-</p>
-
 <table>
   <tr>
-    <td valign="top" align="center"><img src="terminal-card.svg" alt="Terminal Card" width="400"/></td>
-    <td valign="top" align="center"><img src="info-card.svg" alt="Info Card" width="500"/></td>
+    <td valign="centre"><img src="terminal-card.svg" alt="ASCII Portrait" width="400"/></td>
+    <td valign="top"><img src="info-card.svg" alt="Info Card" width="500"/></td>
   </tr>
 </table>
+
+
 
 <!-- HERO SECTION -->
 <div align="center">
 
+
+
   <h3><strong>SDET | AI-Driven Test Automation &amp; Performance Engineering</strong></h3>
-  <p><i>SDET turning manual chaos into automated, AI-driven quality.</i></p>
+  <p><i>Turning manual QA chaos into automated, AI-driven quality.</i></p>
 
   <p>
     <a href="mailto:dharshuadhimoolam@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -23,97 +23,293 @@
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=dharshuadhi&color=00FFCC&style=flat-square" alt="Visitor Counter" />
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=650&lines=AI-Driven+Test+Automation;Performance+Engineering+at+Scale;LLMs+for+Failure+Triage;Breaking+Builds+Before+They+Break+You" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<!-- ABOUT ME -->
+<!-- ABOUT & MEDIA SECTION -->
+<!-- ================= ABOUT ME ================= -->
 <h2 align="center">🚀 About Me</h2>
 
-- 🎓 **MS in Cybersecurity** — University at Buffalo
-- 💼 **SDET @ GlobalLogic** — automated testing for a large-scale pharmacy supply chain platform
-- 🤖 **AI-driven engineering** — LLM test-case generation, agentic failure triage, RAG assistants (Azure OpenAI + AI Foundry)
-- ⚡ **Performance engineering** — JMeter load scenarios, p90/p95/p99 SLA analysis under peak load
-- 🌱 Currently exploring **LLM evals, AI agents, and RAG systems**
+<table width="100%" border="0">
+<tr>
+<td width="40%" valign="top" style="border: none; background: none;">
 
-> <i>"I find the repetitive manual work — and automate it away."</i>
+### 🧑‍💻 Who am I?
 
-<br/>
+* 🎓 **MS in Cybersecurity** · University at Buffalo
+* 💼 **SDET @ GlobalLogic** — test automation for a large-scale pharmacy supply chain platform
+* 🤖 **AI-driven engineering** — LLM test generation, agentic failure triage, RAG assistants (Azure OpenAI + AI Foundry)
+* ⚡ **Performance engineering** — JMeter, p90/p95/p99 SLA analysis under peak load
+* 🌱 Currently exploring **LLM evals, AI agents & RAG systems**
 
-<!-- TECH STACK -->
+<blockquote>
+  <p align="left">
+    <i>"I find the repetitive manual work — and automate it away."</i>
+  </p>
+</blockquote>
+
+</td>
+
+<td width="60%" align="center" valign="middle" style="border: none; background: none;">
+
+<img src="./code-typing.svg" width="100%" height="auto" alt="Coding Animation"/>
+
+</td>
+</tr>
+</table>
+
+<hr style="border: 1px solid #30363d; background-color: #30363d; height: 1px; margin: 20px 0;" />
+
+---
+
+<!-- ================= AI ENGINEERING ================= -->
+<!-- Section Header with subtle typing or glow effect layout -->
+<!-- Section Header with a matching Dark/Glow theme -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=120&section=header&text=⚡%20Tech%20Stack&fontSize=30&fontColor=00FFCC" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1f232a&height=120&section=header&text=🤖%20AI%20Engineering&fontSize=30&fontColor=ffffff" width="100%"/>
 </div>
 
+<!-- Animated Metrics Section -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,html&theme=dark" alt="Languages" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=selenium,jmeter,appium,postman,jenkins&theme=dark" alt="Testing" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,git,github,linux&theme=dark" alt="Cloud and DevOps" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,vscode&theme=dark" alt="Data and Tools" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Azure_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Azure OpenAI" />
-  <img src="https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI Foundry" />
-  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber" />
+  <a href="https://dharshuadhi.github.io/dharshini-portfolio/">
+    <img src="https://img.shields.io/badge/Azure_OpenAI-3%20Systems%20Shipped-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  </a>
+  <a href="https://dharshuadhi.github.io/dharshini-portfolio/">
+    <img src="https://img.shields.io/badge/Azure_AI_Foundry-Agentic%20Triage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  </a>
+  <a href="https://dharshuadhi.github.io/dharshini-portfolio/">
+    <img src="https://img.shields.io/badge/RAG-Grounded%20Assistants-00FFCC?style=for-the-badge&logo=googlebard&logoColor=black" />
+  </a>
 </p>
 
-<br/>
+<!-- Left/Right Split: Perfectly balanced with working assets -->
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="center" width="50%" style="border: none; background: none;">
+      <img src="ai-stats-card.svg" width="400" alt="AI Stats Card"/>
+    </td>
+    <td align="center" width="50%" style="border: none; background: none;">
+      <!-- Using a GitHub-native typing animation that never fails to render -->
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=400&lines=Shipping+AI+Test+Automation...;Triaging+Failures+with+LLMs...;Cutting+Manual+QA+to+Zero...;Continuous+Learning" alt="Typing SVG" />
+    </td>
+  </tr>
+</table>
 
-<!-- AI ENGINEERING -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=120&section=header&text=🤖%20AI%20Engineering&fontSize=30&fontColor=00FFCC" width="100%"/>
-</div>
-
-- **AI Test Case & Gherkin Generator** — LLM-backed test generation from requirements via Azure OpenAI + AI Foundry REST APIs; auto-generates Gherkin scenarios for the supply chain platform.
-- **AI-Powered Failure Analysis & Agentic Triage** — tool-calling agents with prompt orchestration that correlate failures across Service Bus, Cosmos DB, and Talend, file structured defect reports, and cut manual triage time.
-- **RAG Knowledge Assistant** — retrieval-based LLM assistant grounded in enterprise context for accurate, cited responses.
-- **Shift-left initiative** — brought the manual-analysis bottleneck to the engineering team and drove AI automation of failure and performance analysis.
-
-<br/>
-
-<!-- FEATURED PROJECTS -->
-<h2>💼 Featured Projects</h2>
-
-| Project | Stack |
-|---|---|
-| **AI Test Case & Gherkin Generator** — LLM-backed test generation from requirements | Azure OpenAI, AI Foundry, Java, Cucumber |
-| **AI-Powered Failure Analysis & Agentic Triage** — autonomous triage of pipeline failures | Azure OpenAI, Python, JMeter, Azure DevOps |
-| **Performance Test Automation Toolkit** — end-to-end load-testing toolkit with SLA reporting | Python, JMeter, SQL, Azure Service Bus |
-| **Home-Lab SOC Pipeline** — containerized detection stack with MITRE ATT&CK-mapped rules | Wazuh, ELK, Suricata, Docker, Kali |
-| **Web App Security Testing Toolkit** — multi-scanner wrapper with normalized reporting | Python, BurpSuite, OWASP ZAP, SQLMap |
-
-<br/>
-
-<!-- EXPERIENCE -->
-<h2>🚀 Experience</h2>
-
-- **SDET — GlobalLogic Inc.** (Jun 2025 – Sep 2026) · Test automation, performance engineering & AI-driven quality for a pharmacy supply chain platform
-- **Software Engineer (Part-time) — WeServe Technologies** (May 2025 – Jun 2025) · .NET tooling, network security, AI-assisted anomaly detection
-- **Cybersecurity & Pen Testing Intern — Flow Global Technologies** (May 2024 – Dec 2024) · SIEM, incident response, SOC2
-- **Software Engineer — Tech Mahindra** (Feb 2022 – Jul 2023) · Java/Spring Boot, IBM Maximo, REST APIs
-- **Systems Executive Trainee — Miramed Ajuba** (Oct 2021 – Jan 2022) · Automation, Graylog SIEM
-
-<br/>
-
-<!-- GITHUB ANALYTICS -->
-<h2 align="center">📈 GitHub Analytics</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharshuadhi&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharshuadhi&theme=tokyo-night&bg_color=0D1117&hide_border=true" alt="Activity Graph" width="850"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dharshuadhi&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dharshuadhi&theme=tokyonight" alt="Repos per Language" />
-</p>
-
+<!-- Animated Footer Divider -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
+</div>
+
+---
+
+### 🏅 Achievements
+
+- 🥇 **Blue Team Lead** — UB Internal Lockdown 2023 & 2024
+- 🛡️ **15+ critical incidents** resolved, triaged against MITRE ATT&CK
+- 📜 **SOC2 audit readiness** improved by 75%
+- 🎓 **MS Cybersecurity**, University at Buffalo — GPA 3.67/4.0
+- 📜 Certifications: **AWS Cloud Practitioner** · **Google Cybersecurity Professional**
+<!-- SKILLS SHOWCASE -->
+<h2>⚡ Tech Stack & Engineering Arsenal</h2>
+
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 Languages</h3>
+      <img src="https://skillicons.dev/icons?i=python,java,cs,html" />
+      <br/><br/>
+      <h3>🧪 Test Automation</h3>
+      <img src="https://skillicons.dev/icons?i=selenium,jmeter,appium,postman,jenkins" />
+      <br/><br/>
+      <h3>⚙️ Backend & APIs</h3>
+      <img src="https://skillicons.dev/icons?i=spring" />
+      <br/><br/>
+      <h3>🗄️ Databases</h3>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+      <br/><br/>
+      <h3>☁️ Cloud & DevOps</h3>
+      <img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,git,github,linux" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Artificial Intelligence</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Azure_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+        <br/>LLM Integration • Prompt Orchestration • Agentic Workflows • RAG • AI Test Generation • Failure Triage Agents
+      </p>
+      <br/>
+      <h3>🔐 Security & Compliance</h3>
+      <p>OWASP Top 10 • JWT / OAuth2 / RBAC • Wazuh SIEM • MITRE ATT&CK • HIPAA • SOC2 • BurpSuite • Penetration Testing</p>
+      <br/>
+      <h3>📊 Data Engineering</h3>
+      <p>Azure Data Factory • Talend • ETL Pipelines • SQL Reconciliation • Cosmos DB • Data Quality Checks</p>
+      <br/>
+      <h3>👀 Monitoring & Observability</h3>
+      <p>ELK Stack • Grafana • Wazuh • Graylog • Suricata • p90/p95/p99 SLA Reporting</p>
+    </td>
+  </tr>
+</table>
+
+<!-- PROJECTS -->
+<h2>💼 Featured Projects</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://dharshuadhi.github.io/dharshini-portfolio/">AI Test Case & Gherkin Generator</a></h3>
+      <p>LLM-backed test generation from requirements via Azure OpenAI + AI Foundry; auto-generates Gherkin scenarios.</p>
+      <p>
+        <code>Azure OpenAI</code> <code>AI Foundry</code> <code>Java</code> <code>Cucumber</code>
+      </p>
+      <ul>
+        <li>✔ Requirement → test case automation</li>
+        <li>✔ Readable, traceable Gherkin output</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔍 <a href="https://dharshuadhi.github.io/dharshini-portfolio/">AI Failure Analysis & Agentic Triage</a></h3>
+      <p>Tool-calling agents correlate failures across Service Bus, Cosmos DB & Talend and file defect reports.</p>
+      <p>
+        <code>Azure OpenAI</code> <code>Python</code> <code>JMeter</code> <code>Azure DevOps</code>
+      </p>
+      <ul>
+        <li>✔ Autonomous pipeline triage</li>
+        <li>✔ Structured defect reports</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://dharshuadhi.github.io/dharshini-portfolio/">Performance Test Automation Toolkit</a></h3>
+      <p>End-to-end load-testing toolkit: data prep, high-volume ingestion, p90/p95/p99 SLA reports.</p>
+      <p>
+        <code>Python</code> <code>JMeter</code> <code>SQL</code> <code>Azure Service Bus</code>
+      </p>
+      <ul>
+        <li>✔ Config-driven, reusable modules</li>
+        <li>✔ Run-over-run SLA comparison</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://dharshuadhi.github.io/dharshini-portfolio/">Home-Lab SOC Pipeline</a></h3>
+      <p>Containerized detection stack with MITRE ATT&CK-mapped rules and red-team validation.</p>
+      <p>
+        <code>Wazuh</code> <code>ELK</code> <code>Suricata</code> <code>Docker</code> <code>Kali</code>
+      </p>
+      <ul>
+        <li>✔ Custom detection rules</li>
+        <li>✔ Kibana dashboards for MTTD</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔎 <a href="https://dharshuadhi.github.io/dharshini-portfolio/">Web App Security Testing Toolkit</a></h3>
+      <p>Multi-scanner wrapper normalizing BurpSuite, ZAP & SQLMap output into one structured report.</p>
+      <p>
+        <code>Python</code> <code>BurpSuite</code> <code>OWASP ZAP</code> <code>SQLMap</code>
+      </p>
+      <ul>
+        <li>✔ Severity + CWE + remediation notes</li>
+        <li>✔ Cuts manual triage time</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<!-- ENGINEERING EXPERIENCE -->
+<h2>🚀 Engineering Experience</h2>
+<p>Across my journey I have built quality into production systems — from enterprise asset management to large-scale supply chain platforms.</p>
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🧪 Test Automation</h3>
+      <ul>
+        <li>Selenium & Appium</li>
+        <li>Cucumber BDD / Gherkin</li>
+        <li>RestAssured API suites</li>
+        <li>Contract testing</li>
+        <li>CI/CD-gated runs</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🤖 AI Engineering</h3>
+      <ul>
+        <li>Azure OpenAI & AI Foundry</li>
+        <li>Prompt orchestration</li>
+        <li>Tool-calling agents</li>
+        <li>RAG assistants</li>
+        <li>LLM failure analysis</li>
+      </ul>
+    </td>
+    <td width="34%" valign="top">
+      <h3>⚡ Performance</h3>
+      <ul>
+        <li>JMeter load scenarios</li>
+        <li>p90/p95/p99 SLA analysis</li>
+        <li>Soak / spike / stress</li>
+        <li>Throughput profiling</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🔐 Security</h3>
+      <ul>
+        <li>Penetration testing</li>
+        <li>Wazuh SIEM & MITRE ATT&CK</li>
+        <li>OWASP Top 10</li>
+        <li>JWT / OAuth2 / RBAC</li>
+        <li>HIPAA & SOC2</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📊 Data & Backend</h3>
+      <ul>
+        <li>Azure Service Bus</li>
+        <li>Cosmos DB & SQL</li>
+        <li>Azure Data Factory</li>
+        <li>Talend ETL</li>
+        <li>Data reconciliation</li>
+      </ul>
+    </td>
+    <td width="34%" valign="top">
+      <h3>🛠️ DevOps & Cloud</h3>
+      <ul>
+        <li>Azure DevOps pipelines</li>
+        <li>Docker</li>
+        <li>Git & GitHub</li>
+        <li>Azure, AWS, GCP</li>
+        <li>ELK & Grafana monitoring</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<!-- HIGHLIGHTS -->
+<h2>🏆 Career Highlights</h2>
+<p>From enterprise software to AI-driven quality engineering, I have shipped <strong>5+ engineering projects</strong> across test automation, AI, security, and performance.</p>
+<p>
+  <strong>🚀 Technologies & Domains Worked On:</strong><br/>
+  AI Test Generation • Agentic Triage • RAG Systems • Selenium Automation • JMeter Performance Engineering • p99 SLA Analysis • Azure Service Bus • Cosmos DB • ADF & Talend ETL • Wazuh SIEM • MITRE ATT&CK • OWASP • JWT/OAuth2/RBAC • HIPAA & SOC2 • Docker • Azure DevOps CI/CD • Appium Mobile Automation
+</p>
+
+<!-- GITHUB STATS -->
+<h2>📈 GitHub Analytics & Open Source Activity</h2>
+<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dharshuadhi&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dharshuadhi&theme=tokyonight" />
+</p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharshuadhi&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="97%" />
+  </p>
+  <p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharshuadhi&theme=tokyo-night&bg_color=0D1117&hide_border=true" width="97%" alt="Activity Graph" />
+  </p>
+  <p>
+    <img src="https://raw.githubusercontent.com/dharshuadhi/dharshuadhi/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph" width="97%" />
+  </p>
 </div>
