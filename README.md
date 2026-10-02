@@ -24,17 +24,17 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/Open_to_Opportunities-Software_Engineering_•_AI-00FFCC?style=for-the-badge" alt="Open to opportunities" />
+    <img src="https://img.shields.io/badge/Open_to_Opportunities-Software_Engineering_•_AI-A78BFA?style=for-the-badge" alt="Open to opportunities" />
   </p>
 
   <p>
     <a href="mailto:dharshuadhimoolam@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://www.linkedin.com/in/dharshini-adimoolam"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://dharshuadhi.github.io/dharshini-portfolio/"><img src="https://img.shields.io/badge/Portfolio-00FFCC?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
+    <a href="https://dharshuadhi.github.io/dharshini-portfolio/"><img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
     <a href="https://github.com/dharshuadhi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=dharshuadhi&color=00FFCC&style=flat-square" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=dharshuadhi&color=a78bfa&style=flat-square" alt="Visitor Counter" />
 </div>
 
 <br/>
@@ -79,12 +79,12 @@
 <!-- Section Header with subtle typing or glow effect layout -->
 <!-- Section Header with a matching Dark/Glow theme -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1f232a&height=120&section=header&text=🎯%20Engineering%20Focus&fontSize=30&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=241f3d&height=120&section=header&text=🎯%20Engineering%20Focus&fontSize=30&fontColor=e9e4ff" width="100%"/>
 </div>
 
 <!-- Animated Metrics Section -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Software_Engineer-Test%20Automation-00FFCC?style=for-the-badge&logo=selenium&logoColor=black" />
+  <img src="https://img.shields.io/badge/Software_Engineer-Test%20Automation-A78BFA?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Security-Pentesting-FF6C37?style=for-the-badge&logo=hackthebox&logoColor=white" />
   <img src="https://img.shields.io/badge/AI-Azure%20OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
@@ -98,14 +98,14 @@
     </td>
     <td align="center" width="50%" style="border: none; background: none;">
       <!-- Using a GitHub-native typing animation that never fails to render -->
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=400&lines=Automating+Tests+at+Scale...;Building+Secure+Systems...;Shipping+AI-Driven+Quality...;Breaking+Things+Safely..." alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=400&lines=Automating+Tests+at+Scale...;Building+Secure+Systems...;Shipping+AI-Driven+Quality...;Breaking+Things+Safely..." alt="Typing SVG" />
     </td>
   </tr>
 </table>
 
 <!-- Animated Footer Divider -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,100:241f3d&height=60&section=footer" width="100%"/>
 </div>
 
 ---
@@ -352,6 +352,6 @@
   <br/><sub><i>Languages in my daily work — the charts above only count public repos</i></sub>
 </p>
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharshuadhi&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="97%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharshuadhi&hide_border=true&background=0D1117&ring=a78bfa&fire=f5c86e&currStreakNum=e9e4ff&sideNums=e9e4ff&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=9a93b8" alt="GitHub Streak" width="97%" />
   </p>
 </div>

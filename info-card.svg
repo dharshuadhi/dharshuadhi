@@ -1,25 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="500" height="320" viewBox="0 0 500 320" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
   <defs>
     <linearGradient id="infobg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#12202e"/>
+      <stop offset="0" stop-color="#14121f"/><stop offset="1" stop-color="#221d3f"/>
     </linearGradient>
   </defs>
-  <rect width="500" height="320" rx="14" fill="url(#infobg)" stroke="#00ffcc" stroke-width="1.5"/>
+  <rect width="500" height="320" rx="14" fill="url(#infobg)" stroke="#a78bfa" stroke-width="1.5"/>
   <text x="28" y="52" fill="#ffffff" font-size="24" font-weight="bold">Dharshini Adimoolam</text>
-  <text x="28" y="80" fill="#00ffcc" font-size="14">Software Engineer · AI · Cybersecurity</text>
-  <line x1="28" y1="98" x2="472" y2="98" stroke="#30363d"/>
-  <g font-size="13" fill="#c9d1d9">
+  <text x="28" y="80" fill="#a78bfa" font-size="14">Software Engineer · AI · Cybersecurity</text>
+  <line x1="28" y1="98" x2="472" y2="98" stroke="#3b3355"/>
+  <g font-size="13" fill="#d6d0ea">
     <text x="28" y="128">📍  Chicago, USA</text>
     <text x="28" y="154">🎓  MS Cybersecurity — Univ. at Buffalo</text>
     <text x="28" y="180">💼  Ex-GlobalLogic · Ex-Tech Mahindra</text>
     <text x="28" y="206">🤖  Azure OpenAI + AI Foundry</text>
   </g>
   <g font-size="12">
-    <rect x="28" y="224" width="216" height="68" rx="10" fill="#00ffcc" opacity="0.08" stroke="#00ffcc" stroke-opacity="0.35"/>
-    <text x="44" y="250" fill="#00ffcc" font-size="20" font-weight="bold">4+ yrs</text>
-    <text x="44" y="272" fill="#8b949e">shipping quality software</text>
-    <rect x="256" y="224" width="216" height="68" rx="10" fill="#00ffcc" opacity="0.08" stroke="#00ffcc" stroke-opacity="0.35"/>
-    <text x="272" y="250" fill="#00ffcc" font-size="20" font-weight="bold">5 projects</text>
-    <text x="272" y="272" fill="#8b949e">AI · test · security</text>
+    <rect x="28" y="224" width="216" height="68" rx="10" fill="#a78bfa" opacity="0.08" stroke="#a78bfa" stroke-opacity="0.35"/>
+    <text x="44" y="250" fill="#f5c86e" font-size="20" font-weight="bold">4+ yrs</text>
+    <text x="44" y="272" fill="#9a93b8">shipping quality software</text>
+    <rect x="256" y="224" width="216" height="68" rx="10" fill="#a78bfa" opacity="0.08" stroke="#a78bfa" stroke-opacity="0.35"/>
+    <text x="272" y="250" fill="#f5c86e" font-size="20" font-weight="bold">5 projects</text>
+    <text x="272" y="272" fill="#9a93b8">AI · test · security</text>
   </g>
 </svg>
