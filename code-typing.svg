@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="300" viewBox="0 0 520 300" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <rect width="520" height="300" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <circle cx="24" cy="20" r="6" fill="#ff5f56"/><circle cx="44" cy="20" r="6" fill="#ffbd2e"/><circle cx="64" cy="20" r="6" fill="#27c93f"/>
+  <text x="90" y="25" fill="#7d8590" font-size="12">test_automation.py</text>
+  <line x1="0" y1="38" x2="520" y2="38" stroke="#30363d"/>
+  <g font-size="13">
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.3s" dur="0.4s" fill="freeze"/>
+      <text x="20" y="66" fill="#ff7b72">from</text><text x="62" y="66" fill="#c9d1d9"> selenium </text><text x="140" y="66" fill="#ff7b72">import</text><text x="200" y="66" fill="#c9d1d9"> webdriver</text></g>
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.8s" dur="0.4s" fill="freeze"/>
+      <text x="20" y="92" fill="#ff7b72">from</text><text x="62" y="92" fill="#c9d1d9"> azure.ai </text><text x="150" y="92" fill="#ff7b72">import</text><text x="210" y="92" fill="#c9d1d9"> Foundry</text></g>
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.3s" dur="0.4s" fill="freeze"/>
+      <text x="20" y="128" fill="#8b949e"># AI-assisted test generation</text></g>
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.7s" dur="0.4s" fill="freeze"/>
+      <text x="20" y="154" fill="#c9d1d9">tests = Foundry.generate(</text></g>
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.1s" dur="0.4s" fill="freeze"/>
+      <text x="40" y="180" fill="#a5d6ff">"checkout flow"</text><text x="180" y="180" fill="#c9d1d9">, framework=</text><text x="300" y="180" fill="#a5d6ff">"cucumber"</text><text x="400" y="180" fill="#c9d1d9">)</text></g>
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.5s" dur="0.4s" fill="freeze"/>
+      <text x="20" y="216" fill="#8b949e"># agentic failure triage</text></g>
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.9s" dur="0.4s" fill="freeze"/>
+      <text x="20" y="242" fill="#c9d1d9">report = agents.triage(failed_run)</text></g>
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.3s" dur="0.4s" fill="freeze"/>
+      <text x="20" y="268" fill="#ff7b72">assert</text><text x="80" y="268" fill="#c9d1d9"> report.root_cause_found </text><text x="290" y="268" fill="#3fb950">✓</text></g>
+  </g>
+</svg>
