@@ -6,7 +6,7 @@
   </defs>
   <rect width="500" height="320" rx="14" fill="url(#infobg)" stroke="#00ffcc" stroke-width="1.5"/>
   <text x="28" y="52" fill="#ffffff" font-size="24" font-weight="bold">Dharshini Adimoolam</text>
-  <text x="28" y="80" fill="#00ffcc" font-size="14">SDET · Developer · Cybersecurity</text>
+  <text x="28" y="80" fill="#00ffcc" font-size="14">Software Engineer · AI · Cybersecurity</text>
   <line x1="28" y1="98" x2="472" y2="98" stroke="#30363d"/>
   <g font-size="13" fill="#c9d1d9">
     <text x="28" y="128">📍  Chicago, USA</text>
