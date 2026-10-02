@@ -115,13 +115,15 @@
       <img src="https://skillicons.dev/icons?i=python,java,cs,bash,powershell,html" />
       <p>Python (pytest, unittest, tooling) • Java (Selenium, RestAssured, Spring) • C# (.NET tooling) • SQL • Bash / PowerShell scripting • HTML</p>
       <h3>🧪 Test Automation</h3>
-      <img src="https://skillicons.dev/icons?i=selenium,postman" />
       <p>
-        <img src="https://img.shields.io/badge/Apache_JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white" />
-        <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white" />
-        <img src="https://img.shields.io/badge/Appium-EE3377?style=flat-square&logo=appium&logoColor=white" />
-        <img src="https://img.shields.io/badge/RestAssured-00D4B8?style=flat-square&logo=checkmarx&logoColor=white" />
+        <img src="https://skillicons.dev/icons?i=selenium,postman" height="48" />
+        <img src="https://cdn.simpleicons.org/apachejmeter/D22128" height="48" title="Apache JMeter" />
+        <img src="https://cdn.simpleicons.org/junit5/25A162" height="48" title="JUnit" />
+        <img src="https://cdn.simpleicons.org/cucumber/23D96C" height="48" title="Cucumber" />
+        <img src="https://cdn.simpleicons.org/appium/EE3377" height="48" title="Appium" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/RestAssured-00D4B8?style=flat-square" />
         <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
         <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
         <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
