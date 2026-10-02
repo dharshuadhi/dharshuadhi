@@ -1,0 +1,21 @@
+<svg width="500" height="250" viewBox="0 0 500 250" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#12202e"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="496" height="246" rx="12" fill="url(#bg)" stroke="#00ffcc" stroke-width="2"/>
+  <g font-family="monospace">
+    <text x="24" y="48" fill="#ffffff" font-size="22" font-weight="bold">Dharshini Adimoolam</text>
+    <text x="24" y="76" fill="#00ffcc" font-size="14">SDET | AI-Driven Test Automation</text>
+    <line x1="24" y1="92" x2="476" y2="92" stroke="#30363d" stroke-width="1"/>
+    <g font-size="14" fill="#c9d1d9">
+      <text x="24" y="122">📍  Chicago, USA</text>
+      <text x="24" y="148">🎓  MS Cybersecurity — Univ. at Buffalo</text>
+      <text x="24" y="174">💼  Ex-GlobalLogic · Ex-Tech Mahindra</text>
+      <text x="24" y="200">🤖  Azure OpenAI + AI Foundry</text>
+      <text x="24" y="226">⚡  JMeter · Selenium · Python · Java</text>
+    </g>
+  </g>
+</svg>
