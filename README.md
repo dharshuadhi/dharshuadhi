@@ -1,7 +1,7 @@
 <table>
   <tr>
-    <td valign="top" align="center"><img src="lofi-coding.gif" alt="Coding at night" width="400"/></td>
-    <td valign="top" align="center"><img src="info-card.svg?v=2" alt="Info Card" width="500"/></td>
+    <td valign="top" align="center"><img src="lofi-coding.gif" alt="Coding at night" height="320"/></td>
+    <td valign="top" align="center"><img src="info-card.svg?v=2" alt="Info Card" height="320"/></td>
   </tr>
 </table>
 
