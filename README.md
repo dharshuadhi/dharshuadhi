@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td valign="top" align="center"><img src="girl-coding.svg" alt="Girl coding" width="400"/></td>
+    <td valign="top" align="center"><img src="lofi-coding.gif" alt="Coding at night" width="400"/></td>
     <td valign="top" align="center"><img src="info-card.svg" alt="Info Card" width="500"/></td>
   </tr>
 </table>
