@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="220" viewBox="0 0 400 220" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <rect width="400" height="220" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <g font-size="12">
+    <rect x="16" y="16" width="176" height="88" rx="10" fill="#00ffcc" opacity="0.07" stroke="#00ffcc" stroke-opacity="0.4"/>
+    <text x="30" y="42" fill="#00ffcc" font-size="14">🧪 Test Automation</text>
+    <text x="30" y="64" fill="#8b949e">Selenium · JMeter</text>
+    <text x="30" y="84" fill="#8b949e">Cucumber · RestAssured</text>
+
+    <rect x="208" y="16" width="176" height="88" rx="10" fill="#00ffcc" opacity="0.07" stroke="#00ffcc" stroke-opacity="0.4"/>
+    <text x="222" y="42" fill="#00ffcc" font-size="14">💻 Software Dev</text>
+    <text x="222" y="64" fill="#8b949e">Java · Spring Boot</text>
+    <text x="222" y="84" fill="#8b949e">Python · .NET</text>
+
+    <rect x="16" y="116" width="176" height="88" rx="10" fill="#00ffcc" opacity="0.07" stroke="#00ffcc" stroke-opacity="0.4"/>
+    <text x="30" y="142" fill="#00ffcc" font-size="14">🔐 Cybersecurity</text>
+    <text x="30" y="164" fill="#8b949e">Pentesting · SIEM</text>
+    <text x="30" y="184" fill="#8b949e">OWASP · SOC2</text>
+
+    <rect x="208" y="116" width="176" height="88" rx="10" fill="#00ffcc" opacity="0.07" stroke="#00ffcc" stroke-opacity="0.4"/>
+    <text x="222" y="142" fill="#00ffcc" font-size="14">🤖 AI Engineering</text>
+    <text x="222" y="164" fill="#8b949e">Azure OpenAI</text>
+    <text x="222" y="184" fill="#8b949e">Agents · RAG</text>
+  </g>
+</svg>
