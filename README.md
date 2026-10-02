@@ -115,8 +115,12 @@
       <img src="https://skillicons.dev/icons?i=python,java,cs,bash,powershell,html" />
       <p>Python (pytest, unittest, tooling) • Java (Selenium, RestAssured, Spring) • C# (.NET tooling) • SQL • Bash / PowerShell scripting • HTML</p>
       <h3>🧪 Test Automation</h3>
-      <img src="https://skillicons.dev/icons?i=selenium,jmeter,junit,cucumber,appium,postman" />
+      <img src="https://skillicons.dev/icons?i=selenium,postman" />
       <p>
+        <img src="https://img.shields.io/badge/Apache_JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white" />
+        <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white" />
+        <img src="https://img.shields.io/badge/Appium-EE3377?style=flat-square&logo=appium&logoColor=white" />
         <img src="https://img.shields.io/badge/RestAssured-00D4B8?style=flat-square&logo=checkmarx&logoColor=white" />
         <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
         <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
@@ -157,7 +161,7 @@
       </p>
       <br/>
       <h3>👀 Monitoring & Observability</h3>
-      <img src="https://skillicons.dev/icons?i=elasticsearch,kibana,grafana" />
+      <img src="https://skillicons.dev/icons?i=elasticsearch,grafana" />
       <p>ELK Stack (Elasticsearch, Logstash, Kibana) • Grafana Dashboards • Wazuh • Graylog • Suricata • p90/p95/p99 SLA Reporting • Alert Rule Authoring • Log Analysis & Threat Hunting</p>
       <br/>
       <h3>🛠️ IDEs & Tools</h3>
