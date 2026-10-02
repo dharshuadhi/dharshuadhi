@@ -16,6 +16,18 @@
   <p><i>I build software, break it safely, secure it — and automate the whole loop.</i></p>
 
   <p>
+    SDET with ~4 years of experience across <b>test automation</b>, <b>software development</b>,
+    <b>cybersecurity</b> and <b>AI engineering</b> — most recently shipping quality for a
+    large-scale pharmacy supply chain platform at GlobalLogic.<br/>
+    Now building <b>AI-driven testing</b>: LLM test-case generation, agentic failure triage
+    and RAG assistants on Azure OpenAI + AI Foundry.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Open_to_Opportunities-SDET_•_AI_Engineering-00FFCC?style=for-the-badge" alt="Open to opportunities" />
+  </p>
+
+  <p>
     <a href="mailto:dharshuadhimoolam@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://www.linkedin.com/in/dharshini-adimoolam"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://dharshuadhi.github.io/dharshini-portfolio/"><img src="https://img.shields.io/badge/Portfolio-00FFCC?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
