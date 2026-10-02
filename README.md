@@ -347,6 +347,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dharshuadhi&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dharshuadhi&theme=tokyonight" />
 </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cs,bash,powershell,html" />
+  <br/><sub><i>Languages in my daily work — the charts above only count public repos</i></sub>
+</p>
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharshuadhi&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="97%" />
   </p>
