@@ -47,13 +47,13 @@
 <tr>
 <td width="40%" valign="top" style="border: none; background: none;">
 
-### 🧑‍💻 Who am I?
+### 🧑‍💻 My journey
 
-* 🧪 **SDET @ GlobalLogic** — test automation for a large-scale pharmacy supply chain platform
-* 💻 **Software Engineer** — Java/Spring Boot, IBM Maximo, .NET (ex-Tech Mahindra, WeServe)
-* 🔐 **Cybersecurity** — penetration testing, Wazuh SIEM, MITRE ATT&CK, SOC2 (MS, Univ. at Buffalo)
-* 🤖 **AI engineering** — LLM test generation, agentic failure triage, RAG assistants (Azure OpenAI + AI Foundry)
-* ⚡ **Performance engineering** — JMeter, p90/p95/p99 SLA analysis under peak load
+* 🌱 **Started in software** — Software Engineer at Tech Mahindra, building with Java / Spring Boot and IBM Maximo
+* 🔐 **Went deep into security** — MS in Cybersecurity (Univ. at Buffalo); security intern threat-hunting with Wazuh SIEM
+* 🧪 **Scaled quality as SDET** — GlobalLogic, automating tests for a large-scale pharmacy supply chain platform
+* 🤖 **Now: AI-driven engineering** — LLM test generation, agentic failure triage and RAG assistants on Azure OpenAI
+* 🚀 **Next** — building software where AI handles the repetitive work and engineers do the thinking
 
 <blockquote>
   <p align="left">
@@ -355,7 +355,7 @@
 
 <!-- HIGHLIGHTS -->
 <h2>🏆 Career Highlights</h2>
-<p>From enterprise software to cybersecurity to AI-driven quality engineering, I have shipped <strong>5+ engineering projects</strong> across test automation, software development, security, and AI.</p>
+<p>From enterprise software to cybersecurity to AI-driven quality engineering, I have shipped software across <strong>test automation, development, security, and AI</strong> — from enterprise platforms to AI-driven quality engineering.</p>
 <p>
   <strong>🚀 Technologies & Domains Worked On:</strong><br/>
   Selenium Automation • JMeter Performance Engineering • Java / Spring Boot • .NET / C# • IBM Maximo • Penetration Testing • Wazuh SIEM • MITRE ATT&CK • OWASP • AI Test Generation • Agentic Triage • RAG Systems • Azure Service Bus • Cosmos DB • ADF & Talend ETL • HIPAA & SOC2 • Docker • Azure DevOps CI/CD
